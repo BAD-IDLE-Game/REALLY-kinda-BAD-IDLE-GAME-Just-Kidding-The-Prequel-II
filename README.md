@@ -2,6 +2,8 @@
 
 > Or RKBIGJKTP2 for short
 
+## [Download Installer for Windows here](https://muhammedabu.github.io/Bad-Idle-Game-Website/)
+
 ## Preface
 This github repo contains the project deliverables, source code, and documentation used in accordance and completion of the course CEG4110 - Introduction to Software Engineering taken at Wright State University during the Spring 2024 semester.
 
@@ -24,3 +26,5 @@ This project is focused on creating an fantasy idle game loosely inspired by Mel
 * See the [Design Specification Document](./docs/dsd.md)
 * Presentation link [Presentation](https://docs.google.com/presentation/d/1IhkBFzaC2Gv5R91MlzrjNmFNw9Ya-nX9/edit?usp=sharing&ouid=109920732234565522830&rtpof=true&sd=true)
 * [Video Demo of the game "Really Kinda BAD Idle Game Just Kidding The Prequel II"](https://www.youtube.com/watch?v=rp4dO3-pJ6Y)
+
+
