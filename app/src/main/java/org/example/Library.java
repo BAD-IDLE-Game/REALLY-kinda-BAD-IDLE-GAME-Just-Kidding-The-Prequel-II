@@ -39,8 +39,8 @@ class Library extends JPanel {
     final int imageHeight = -1; // set to negative 1 to scale only one way
     
     private int page = 1;
-    private Color customDarkWood = new Color(139, 69, 19); // Dark wood color
-    private Color customLightWood = new Color(205, 133, 63); // Light wood color
+    // private Color customDarkWood = new Color(139, 69, 19); // Dark wood color
+    // private Color customLightWood = new Color(205, 133, 63); // Light wood color
 
 //========================================================
 // Constructor

@@ -25,7 +25,7 @@ class Combat extends JPanel {
     //These are used for formating the gui elements   
     final private Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
     final private int width = screenSize.width;
-    final private int height = screenSize.height;
+    // final private int height = screenSize.height;
     final private int buttonFont = width / 72;
     public enum MagicType {
         ATTACK,

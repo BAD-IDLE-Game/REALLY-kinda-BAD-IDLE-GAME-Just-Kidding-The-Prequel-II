@@ -39,7 +39,7 @@ public class Credits extends JPanel {
     private Image background;
 
     private Color goldenWoodColor = new Color(255, 190, 128);
-    private Color goldColor = Color.decode("#DAA520");
+    // private Color goldColor = Color.decode("#DAA520");
 
     /* Constructor */
     public Credits() {

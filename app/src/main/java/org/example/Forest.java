@@ -55,8 +55,7 @@ public class Forest extends JPanel {
     private JProgressBar health;
     private JProgressBar magic;
     private JButton gold;
-
-    final private Color customColorDarkBrown = new Color(205, 133, 63);
+    
     final private Color customColorBeige = new Color(253, 236, 166);
     private Border forestBorder = BorderFactory.createLineBorder(Color.white, 1);
 
@@ -77,7 +76,6 @@ public class Forest extends JPanel {
         setLayout(null); //Set layout of screen to null
         ArrayList<JButton> buttons = new ArrayList<JButton>();
         Color customColorGreen = new Color(0, 100, 0);
-        Color customColorGold = new Color(205, 133, 63);
         autoHuntButton = new JButton("🏹 Hunt Wildlife");
         buttons.add(autoHuntButton);
         autoCutButton = new JButton("⁋ Cut Tree");
