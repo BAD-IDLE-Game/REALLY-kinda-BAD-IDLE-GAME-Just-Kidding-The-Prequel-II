@@ -1,6 +1,6 @@
-# REALLY (kinda) BAD IDLE GAME (Just Kidding) The Prequel II
+# BAD Idle Game
 
-> Or RKBIGJKTP2 for short
+> Code Name: Project REALLY-kinda-BAD-IDLE-GAME-Just-Kidding-The-Prequel-II, or RKBIGJKTP2 for short. 
 
 ## [Download Installer for Windows here](https://muhammedabu.github.io/Bad-Idle-Game-Website/)
 
@@ -27,4 +27,6 @@ This project is focused on creating an fantasy idle game loosely inspired by Mel
 * Presentation link [Presentation](https://docs.google.com/presentation/d/1IhkBFzaC2Gv5R91MlzrjNmFNw9Ya-nX9/edit?usp=sharing&ouid=109920732234565522830&rtpof=true&sd=true)
 * [Video Demo of the game "Really Kinda BAD Idle Game Just Kidding The Prequel II"](https://www.youtube.com/watch?v=rp4dO3-pJ6Y)
 
+## Note: 
+B.A.D. is a recursive acronym with multiple interpretations. At its core, it humorously stands for "B.A.D. at Development," a tongue-in-cheek nod to the game's intentionally quirky design and rough edges. Alternatively, it can represent various aspects of the game, such as "Buy, Automate, Dominate" to highlight its economic features, "Battle and Develop" for strategic growth, or "Beasts and Dungeons" for a fantasy twist. Other interpretations include "Barely Adequate Design," and "Barely Active Dynamics," reflecting the challenges we faced with using outdated Java UI framworks while developing the game.
 
