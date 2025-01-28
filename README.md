@@ -27,10 +27,10 @@ This project is focused on creating an fantasy idle game loosely inspired by Mel
 * Presentation link [Presentation](https://docs.google.com/presentation/d/1IhkBFzaC2Gv5R91MlzrjNmFNw9Ya-nX9/edit?usp=sharing&ouid=109920732234565522830&rtpof=true&sd=true)
 * [Video Demo of the game "Really Kinda BAD Idle Game Just Kidding The Prequel II"](https://www.youtube.com/watch?v=rp4dO3-pJ6Y)
 
-## Note: 
+## Notes: 
 
 ### About the Game Name
-B.A.D. Idle Game: B.A.D. is a recursive acronym with multiple interpretations. At its core, it humorously stands for "B.A.D. at Development," a tongue-in-cheek nod to the game's intentionally quirky design and rough edges. Alternatively, it can represent various aspects of the game, such as "Buy, Automate, Dominate" to highlight its economic features, "Battle and Develop" for strategic growth, or "Beasts and Dungeons" for a fantasy twist. Other interpretations include "Barely Adequate Design," and "Barely Active Dynamics," reflecting the challenges we faced with using outdated Java UI framworks while developing the game.
+B.A.D. Idle Game: B.A.D. is a recursive acronym with multiple interpretations. At its core, it stands for "B.A.D. at Development," a tongue-in-cheek nod to the game's intentionally quirky design and rough edges. Alternatively, it can represent various aspects of the game, such as "Buy, Automate, Dominate" to highlight its economic features, "Battle and Develop" for strategic growth, or "Beasts and Dungeons" for a fantasy twist. Other interpretations include "Barely Adequate Design," and "Barely Active Dynamics," reflecting the challenges we faced with using outdated Java UI framworks while developing the game.
 
 ### About the Team Name
 The B.A.D. Devs: B.A.D. can similarly be interpreted as a recursive acronym meaning "B.A.D. at Development", emphasizing the humor in embracing imperfections and acknowledging that development is often a messy, iterative process. This name reflects the team’s willingness to experiment, fail, and learn from mistakes—because, after all, even the best developers are "B.A.D." at something at some point in their journey. Alternatively, it could stand for "Breakthrough App Developers", emphasizing the team’s knack for pushing boundaries, "Brilliant Application Designers", highlighting the team's creative vision and skill, or "Better App Development", showcasing the team’s constant drive to improve and innovate.
