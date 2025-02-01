@@ -2,7 +2,7 @@
 
 > Code Name: Project REALLY-kinda-BAD-IDLE-GAME-Just-Kidding-The-Prequel-II, or RKBIGJKTP2 for short. 
 
-## [Download Installer for Windows here](https://muhammedabu.github.io/Bad-Idle-Game-Website/)
+## Download Installer For Windows [Here](https://muhammedabu.github.io/Bad-Idle-Game-Website/)
 
 ## Preface
 This github repo contains the project deliverables, source code, and documentation used in accordance and completion of the course CEG4110 - Introduction to Software Engineering taken at Wright State University during the Spring 2024 semester.
