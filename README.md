@@ -25,7 +25,7 @@ This project is focused on creating an fantasy idle game loosely inspired by Mel
 * See the [Requirement Specification document](./docs/rsd.md)
 * See the [Design Specification Document](./docs/dsd.md)
 * Presentation link [Presentation](https://docs.google.com/presentation/d/1IhkBFzaC2Gv5R91MlzrjNmFNw9Ya-nX9/edit?usp=sharing&ouid=109920732234565522830&rtpof=true&sd=true)
-* [Video Demo of the game "Really Kinda BAD Idle Game Just Kidding The Prequel II"](https://www.youtube.com/watch?v=rp4dO3-pJ6Y)
+* [Video Demo of the game "Really Kinda BAD Idle Game Just Kidding The Prequel II"](https://drive.google.com/file/d/1b64gb_wzC8301y1qjhANg_ITtWgPrIav/view?usp=sharing)
 
 ## Notes: 
 
